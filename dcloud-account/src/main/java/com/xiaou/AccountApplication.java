@@ -4,7 +4,7 @@ package com.xiaou;
  * Hello world!
  *
  */
-public class App 
+public class AccountApplication
 {
     public static void main( String[] args )
     {
